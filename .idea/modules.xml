@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dc/dc.iml" filepath="$PROJECT_DIR$/dc/dc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpl/jpl.iml" filepath="$PROJECT_DIR$/jpl/jpl.iml" />
+    </modules>
+  </component>
+</project>
