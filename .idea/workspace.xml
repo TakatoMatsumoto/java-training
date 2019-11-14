@@ -1,14 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f70b808-9a19-4ac2-9c55-25a888214950" name="Default Changelist" comment="" />
+    <list default="true" id="2f70b808-9a19-4ac2-9c55-25a888214950" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex02/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex03/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex04/SquareSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex05/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex06/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex07/ImprovedFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex08/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex09/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex11/StringsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex13/ImprovedFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex15/EditLookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch01/ex15/Lookup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex01/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex02/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex03/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex05/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex06/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex06/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex07/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex09/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex10/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex11/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex11/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex13/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex14/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch02/ex15/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex01/PassengerVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex01/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex02/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex02/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex03/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex03/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex03/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex04/PassengerVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex04/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex04/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex05/Benchmark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex05/ExtendBenchmark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex06/Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex06/EnergySource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex06/GasTank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex06/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex07/Attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex07/ColorAttr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex07/ScreenColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex08/PassengerVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex08/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex09/Garage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch03/ex09/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex01/Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex01/EnergySource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex01/GasTank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex01/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex05/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch04/ex06/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex01/Attributed$Attr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex01/Attributed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex01/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex02/BankAccount$Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex02/BankAccount$History.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch05/ex02/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex01/EnumTest$day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex01/EnumTest$trafficLightColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex01/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex02/Vehicle$direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex02/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex02/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex03/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex03/Verbose$Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex03/Verbose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex04/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex04/TrafficLightColor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex04/TrafficLightColor$LightColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex04/TrafficLightColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/TrafficLightColor$LightColor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/TrafficLightColor$LightColor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/TrafficLightColor$LightColor$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/TrafficLightColor$LightColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch06/ex05/TrafficLightColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch07/ex01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch07/ex02/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch07/ex03/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch09/ex01/Infinity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch09/ex02/CountBit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch09/ex03/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch09/ex04/Confirm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch09/ex04/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex01/SpecialCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex02/SpecialCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex03/EnumTest$day.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex03/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex03/IsWorkingDay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex03/IsWorkingDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex04/ArrayFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex04/Benchmark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex04/BenchmarkEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dc/out/production/dc/ch10/ex05/ShowBetweenChars.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TcCiiU9NcM6fm8AaVYAeEItyw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -53,5 +158,16 @@
       <updated>1573750125406</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
