@@ -27,7 +27,7 @@ public class Y extends X
         testShow("after Y constructor");
     }
 
-    void testShow(String when)
+    public void testShow(String when)
     {
         System.out.printf(
                 "xMask: %04x, yMask: %04x, fullMask: %04x When: %s%n", xMask,

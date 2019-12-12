@@ -44,7 +44,7 @@ public class BankAccount
 
         void checkHistoryNumber(int count, History hst)
         {
-            if (count == 8)
+            if (count == 10)
             {
                 hst.setNextNull();
             }
@@ -116,6 +116,10 @@ public class BankAccount
             test.deposit(1000 * (i + 1));
             System.out.println("Current balance: " + test.balance);
         }
+
+        System.out.println("Lastest Action          : "
+                + test.history().getCurrentAction());
+
         for (int i = 0; i < 6; i++)
         {
             test.withdraw(1000 * (i + 1));

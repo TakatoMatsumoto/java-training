@@ -11,6 +11,6 @@ package ch03.ex06;
 
 public abstract class EnergySource
 {
-    abstract void empty();
+    abstract boolean empty();
 
 }

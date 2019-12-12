@@ -93,18 +93,17 @@ public class Vehicle
 
     public static int showCurrentID()
     {
-        // まだ識別番号が一度も使われていない場合は0を返す
         return nextID - 1;
     }
 
-    // 動力源が空の場合はGasTankを割り当てる
     public void start()
     {
-        if (power == null)
-        {
-            power = new GasTank();
+        if (power.empty()) {
+            System.out.println("stop");
+        } else {
+            System.out.println("start");
         }
-        System.out.println("This Vehicle power: " + power);
+
     }
 
     /**

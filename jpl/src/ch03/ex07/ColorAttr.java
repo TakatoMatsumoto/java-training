@@ -65,13 +65,8 @@ public class ColorAttr extends Attr
 
     public boolean equals(ColorAttr obj)
     {
-        if (this.getName() == obj.getName()
-                && this.getValue() == obj.getValue())
-        {
-            return true;
-        }
-
-        return false;
+        return (this.getName() == obj.getName()
+                && this.getValue() == obj.getValue());
     }
 
     public int hashCode()

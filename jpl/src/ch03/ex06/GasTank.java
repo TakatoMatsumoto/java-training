@@ -11,9 +11,9 @@ package ch03.ex06;
 
 public class GasTank extends EnergySource
 {
-    void empty()
+    boolean empty()
     {
-        System.out.println("GasTank's empty method");
+        return true;
     }
 
 }

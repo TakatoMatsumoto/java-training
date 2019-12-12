@@ -11,9 +11,9 @@ package ch03.ex06;
 
 public class Battery extends EnergySource
 {
-    void empty()
+    boolean empty()
     {
-        System.out.println("Battery's empty method");
+        return true;
     }
 
 }

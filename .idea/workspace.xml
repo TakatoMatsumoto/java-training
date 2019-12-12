@@ -3,7 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2f70b808-9a19-4ac2-9c55-25a888214950" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dc/src/dc1_2/DigitalClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/dc/src/dc1_2/DigitalClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex02/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex02/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex02/Y.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex02/Y.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex03/X.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex03/X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex03/Y.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex03/Y.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex06/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex06/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex06/EnergySource.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex06/EnergySource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex06/GasTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex06/GasTank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex06/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex06/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch03/ex07/ColorAttr.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch03/ex07/ColorAttr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch05/ex01/answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch05/ex01/answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpl/src/ch05/ex02/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpl/src/ch05/ex02/BankAccount.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +26,9 @@
   </component>
   <component name="ProjectId" id="1TcCiiU9NcM6fm8AaVYAeEItyw7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,8 +41,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DigitalClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Input">
+    <configuration name="DelimitString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ex03.DelimitString" />
+      <module name="jpl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.ex03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitalClock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dc1_2.DigitalClock" />
       <module name="dc" />
       <extension name="coverage">
@@ -42,9 +68,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DigitalClock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dc1_3.DigitalClock" />
+      <module name="dc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dc1_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.ex04.Input" />
+      <module name="jpl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.ex04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tokei" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI1_3.Tokei" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI1_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Input" />
         <item itemvalue="Application.DigitalClock" />
+        <item itemvalue="Application.DigitalClock (1)" />
+        <item itemvalue="Application.DelimitString" />
+        <item itemvalue="Application.Tokei" />
       </list>
     </recent_temporary>
   </component>
@@ -66,10 +134,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jpl/src/ch03/ex04/PassengerVehicle.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

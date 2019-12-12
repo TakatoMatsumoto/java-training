@@ -7,7 +7,7 @@
 
 package ch03.ex02;
 
-public class X
+public abstract class X
 {
 
     {
@@ -32,11 +32,6 @@ public class X
         return (orig & fullMask);
     }
 
-    void testShow(String when)
-    {
-        System.out.printf(
-                "xMask: %04x, yMask: %04x, fullMask: %04x When: %s%n", xMask,
-                0, fullMask, when);
-    }
+    public abstract void testShow(String when);
 
 }
